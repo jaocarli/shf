@@ -11,6 +11,7 @@
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/fl4m3x/shf" />
   <img alt="" src="https://img.shields.io/github/repo-size/fl4m3x/shf" />
   <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/fl4m3x/shf" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/fl4m3x/shf" />
 </p>
 
 <h1 align="center">Welcome to SHF Framework!</h1>
