@@ -6,8 +6,11 @@
 
 <p align="center">
   <a href="https://docs.fivem.net/docs/scripting-manual/runtimes/javascript/#typescript-support">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20with-Typescript-007ACC">
+    <img alt="Made with Typescript" src="https://img.shields.io/badge/made%20with-Typescript-007ACC">
   </a>
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/fl4m3x/shf" />
+  <img alt="" src="https://img.shields.io/github/repo-size/fl4m3x/shf" />
+  <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/fl4m3x/shf" />
 </p>
 
 <h1 align="center">Welcome to SHF Framework!</h1>
